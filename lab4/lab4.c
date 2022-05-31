@@ -92,7 +92,7 @@ int main(int argc,char *argv[])
 	glutInitDisplayMode(GLUT_DOUBLE|GLUT_RGB|GLUT_DEPTH);
 	glutInitWindowSize(500,500);	
 	glutInitWindowPosition(0,0);
-	glutCreateWindow("cube spin");
+	glutCreateWindow("4mt19cs171");
 	glutReshapeFunc(myReshape);
 	glutDisplayFunc(display);
 	glutIdleFunc(spincube);
