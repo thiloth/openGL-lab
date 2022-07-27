@@ -13,7 +13,7 @@ void main(int argc, char *argv[]){
 	glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
 	glutInitWindowSize(500,500);
 	glutInitWindowPosition(0,0);
-	glutCreateWindow("bresenham's line drawing algorithm 4MT19CS177");
+	glutCreateWindow("bresenham's line drawing algorithm 4MT19CS171");
 	myInit();
 	glutDisplayFunc(myDisplay);
 	glutMainLoop();
