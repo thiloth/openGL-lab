@@ -5,10 +5,10 @@
 float xmax,xmin,ymax,ymin;
 float xvmin=200,yvmin=200,xvmax=300,yvmax=300;
 float x0,y0,x1,y1;
-const int RIGHT=2;
 const int LEFT=1;
-const int TOP=8;
+const int RIGHT=2;
 const int BOTTOM=4;
+const int TOP=8;
 int computeoutcode(float x,float y);
 void CSLCAD(float x0,float y0,float x1,float y1)
 {
