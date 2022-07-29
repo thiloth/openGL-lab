@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<GL/glut.h>
 #include<stdbool.h>
-#define outcode int
 float xmax,xmin,ymax,ymin;
 float xvmin=200,yvmin=200,xvmax=300,yvmax=300;
 float x0,y0,x1,y1;
